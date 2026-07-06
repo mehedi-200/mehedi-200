@@ -13,6 +13,7 @@ Full-stack developer from Bangladesh building web and mobile applications with *
 
 | Project | What it is | Stack |
 |---|---|---|
+| [garageflow-api](https://github.com/mehedi-200/garageflow-api) + [frontend](https://github.com/mehedi-200/garageflow-frontend) | **GarageFlow** — vehicle service management: job workflow, invoicing, dashboard (25 tests, CI) | Laravel 13 · React 19 · Sanctum · Tailwind |
 | [world-cup-2026](https://github.com/mehedi-200/world-cup-2026) | Full-stack World Cup app with live scores | React · Express · MySQL · Socket.IO |
 | [online-shopping](https://github.com/mehedi-200/online-shopping) | E-commerce platform with PayPal & realtime notifications | Laravel 11 · Reverb · Spatie |
 | [project_manager_api](https://github.com/mehedi-200/project_manager_api) + [frontend](https://github.com/mehedi-200/project_manager_vuexy) | Project management app (API + SPA) | Laravel 12 · Vue 3 · TypeScript |
