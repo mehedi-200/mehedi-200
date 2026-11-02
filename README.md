@@ -51,15 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mehedi-200&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-200&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-</p>
-
----
-
 ### 📫 Reach Me
 
 <p align="left">
