@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Mehedi Hasan 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer</b> from Bangladesh 🇧🇩<br>
-  I build clean, scalable web & mobile apps with <b>Laravel</b>, <b>React</b>, <b>Vue</b> &amp; <b>Flutter</b>.
+  <b>Full Stack Software Engineer</b> from Bangladesh 🇧🇩 · nearly 5 years of experience<br>
+  I build production web &amp; mobile apps with <b>Laravel</b>, <b>Vue</b>, <b>React</b> &amp; <b>Flutter</b>.<br>
+  Currently at <a href="https://edroom.in"><b>Edroom</b></a>, working on a multi-tenant School ERP &amp; LMS and its two Flutter apps.
 </p>
 
 <p align="center">
@@ -29,8 +30,9 @@
 
 - **Backend:** PHP · Laravel (11–13) · REST APIs · Sanctum · MySQL · Laravel Reverb
 - **Frontend:** React 19 · Vue 3 · TypeScript · Pinia · TanStack Query · Nuxt · Tailwind CSS
-- **Mobile:** Flutter / Dart
-- **Realtime & tooling:** Node.js · Express · Socket.IO · Git · CI
+- **Mobile:** Flutter · Dart · Cubit · Hive · App Store & Google Play releases
+- **AI:** Claude API · LLM tool calling
+- **Realtime & tooling:** Node.js · Express · Socket.IO · Git · PHPUnit · GitHub Actions CI
 
 ---
 
@@ -38,7 +40,10 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[BookPilot](https://github.com/mehedi-200/bookpilot-backend)** · [frontend](https://github.com/mehedi-200/bookpilot-frontend) | AI booking agent — chat widget checks real availability and books appointments, plus owner dashboard | Laravel · React 19 · Claude API |
 | **[GarageFlow](https://github.com/mehedi-200/garageflow-api)** · [frontend](https://github.com/mehedi-200/garageflow-frontend) | Vehicle service management — job workflow, invoicing, dashboard (tested + CI) | Laravel 13 · React 19 · Sanctum · Tailwind |
+| **[Newsly](https://github.com/mehedi-200/newsly)** | Hacker News reader for Android & iOS — feeds, threaded comments, search, bookmarks | Flutter · Cubit · Hive |
+| **[MH Player](https://github.com/mehedi-200/mh-player)** | Fully offline local video player for Android & iOS | Flutter · Cubit |
 | **[World Cup 2026](https://github.com/mehedi-200/world-cup-2026)** | Full-stack FIFA World Cup app with live scores | React · Express · MySQL · Socket.IO |
 | **[Online Shopping](https://github.com/mehedi-200/online-shopping)** | E-commerce platform with PayPal, roles & realtime notifications | Laravel 11 · Reverb · Spatie |
 | **[Project Manager](https://github.com/mehedi-200/project_manager_api)** · [frontend](https://github.com/mehedi-200/project_manager_vuexy) | Project management app (REST API + SPA) | Laravel 12 · Vue 3 · TypeScript |
@@ -59,5 +64,7 @@
 
 <p align="left">
   <a href="https://github.com/mehedi-200"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:mh682939@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/md-mehedi-hasan-a50874301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.portfolio.devintime.com/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:mehedihasan87571210@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
