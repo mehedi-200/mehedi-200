@@ -66,5 +66,5 @@
   <a href="https://github.com/mehedi-200"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/md-mehedi-hasan-a50874301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.portfolio.devintime.com/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:mh682939@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:mehedihasan87571210@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
